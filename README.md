@@ -10,6 +10,6 @@ that offer discounts to customers after they accumulate a specific amount of
 points from their previous orders, encouraging them to continue doing business
 with the same service provider.
 
-#Flutter
+# Flutter
 The application was built using flutter and dart.
 The database was a noSQL database using Google's Firebase.
